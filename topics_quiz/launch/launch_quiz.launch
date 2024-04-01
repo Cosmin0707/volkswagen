@@ -1,0 +1,4 @@
+<launch>
+<node pkg="topics_quiz" type="   " name="launch_quiz_launch" output="screen">
+</node>
+</launch>
