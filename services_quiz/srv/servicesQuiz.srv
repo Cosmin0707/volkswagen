@@ -1,0 +1,6 @@
+string direction
+int32 duration
+
+---
+
+bool succes

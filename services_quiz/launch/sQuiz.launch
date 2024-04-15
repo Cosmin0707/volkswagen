@@ -1,0 +1,4 @@
+<launch>
+<node pkg = "services_quiz" type = "quiz_server.py" name = "quizServiceServer" output = "screen">
+</node>
+</launch>
